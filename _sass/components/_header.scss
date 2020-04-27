@@ -85,10 +85,6 @@
 .navigation {
   @include overflow(auto, "x");
   & > ul {
-    font-size: map-get($base, font-size-h3);
-    @include media-breakpoint-down(md) {
-      font-size: map-get($base, font-size-h3-small);
-    }
     height: map-get($layout, header-height);
     padding-bottom: 0;
     margin: 0;
