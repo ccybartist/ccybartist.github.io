@@ -3,7 +3,7 @@ title: "CYBARTIST | 赛博缇斯: 正在初始化。"
 tags: 宣告
 ---
 
-正值 SARS-COV-2 肆虐于世的年代，CYBARTIST 开始了自己的初始化。
+正值 SARS-CoV-2 肆虐于世的年代，CYBARTIST 开始了自己的初始化。
 
 <!--more-->
 
