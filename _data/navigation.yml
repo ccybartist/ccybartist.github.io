@@ -2,5 +2,5 @@ header:
   - title: 首页
     url: /index.html
 
-  - titles: 目录
+  - title: 目录
     url: /archive.html
