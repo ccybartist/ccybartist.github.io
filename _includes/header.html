@@ -36,7 +36,7 @@
               <li class="navigation__item"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
             {%- endif -%}
           {%- endfor -%}
-          <li><a class="button button--secondary button--circle" href="/rss.xml"><i class="fas fa-rss"></i></a></li>
+          <li><a class="button button--secondary button--circle" href="/feed.xml"><i class="fas fa-rss"></i></a></li>
           {%- if site.search.provider -%}
             <li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li>
           {%- endif -%}
