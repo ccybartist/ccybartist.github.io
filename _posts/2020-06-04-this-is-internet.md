@@ -1,6 +1,6 @@
 ---
 title: 互联网是人类历史的一段弯路吗？
-tag: 互联网, 社会学, 人类学, 转载
+tags: 互联网 社会学 人类学 转载
 ---
 
 *本文转载自 [赤潮AKASHIO](https://mp.weixin.qq.com/s/V5Dk4gpzpdb-zsfurp9ZiA)。*
