@@ -2,5 +2,8 @@ header:
   - title: 首页
     url: /index.html
 
-  - title: 目录
+  - title: 归档
     url: /archive.html
+
+  - title: Telegram Channel
+    url: https://t.me/cybartist_official
