@@ -4,13 +4,14 @@ tags: FastAPI 技术 网络 Python 转载 翻译
 excerpt: "如果不是基于前人的成果，FastAPI 将不会存在。在 FastAPI 之前，前人已经创建了许多工具。在尝试使用这些不同的框架，插件和工具来解决 FastAPI 涵盖的所有功能的过程中发现，有的时候，没有更好的办法，除了……从以前的工具中汲取最佳创意，并以最佳方式将它们组合起来，使用以前甚至没有的语言功能（Python 3.6+ 的类型提示），这就是 FastAPI。本文大约 5000 字。"
 ---
 
-原文：https://fastapi.tiangolo.com/alternatives/
-
-作者：tiangolo
-
-翻译：somenzz
-
-本文讲述了什么启发了 FastAPI 的诞生，它与其他替代框架的对比，以及从中汲取的经验。
+> 原文：https://fastapi.tiangolo.com/alternatives/
+>
+> 作者：tiangolo
+>
+> 翻译：somenzz
+>
+> 本文讲述了什么启发了 FastAPI 的诞生，它与其他替代框架的对比，以及从中汲取的经验。
+>
 
 ## 简介
 
