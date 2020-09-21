@@ -34,7 +34,7 @@ author:
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
-  telegram  : https://t.me/cybartist_official
+  telegram  : # cybartist_official
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
