@@ -12,9 +12,7 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : https://cybart.ist
 baseurl : # does not include hostname
 title   : CYBARTIST
-description: > # this means to ignore newlines until "Language & timezone"
-  赛博缇斯
-
+description: 「遗世独立，御风而行。」
 
 ## => Language and Timezone
 ##############################
