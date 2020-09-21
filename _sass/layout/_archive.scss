@@ -1,5 +1,6 @@
 .layout--archive {
-  & > .layout--archive__result {
-    margin: map-get($spacers, 4) 0;
-  }
+  // & > .layout--archive__result {
+  //   margin: map-get($spacers, 4) 0;
+  // }
+  margin: map-get($spacers, 4) 0;
 }
