@@ -5,5 +5,8 @@ header:
   - title: 归档
     url: /archive.html
 
-  - title: Telegram Channel
+  - title: 电报频道
     url: https://t.me/cybartist_official
+
+  - title: RSS订阅
+    url: /feed.xml
