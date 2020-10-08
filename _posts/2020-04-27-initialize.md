@@ -1,5 +1,5 @@
 ---
-title: "CYBARTIST | 赛博缇斯: 正在初始化。"
+title: "CYBARTIST: 正在初始化。"
 tags: 宣告
 ---
 
