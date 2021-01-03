@@ -5,20 +5,6 @@ layout: none
 {%- include snippets/get-lang.html -%}
 <html lang="{{ __return }}">
   <head>
-    <script>
-    (function(){
-        var bp = document.createElement('script');
-        var curProtocol = window.location.protocol.split(':')[0];
-        if (curProtocol === 'https') {
-            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
-        }
-        else {
-            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
-        }
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(bp, s);
-    })();
-    </script>
     <script src="https://cdn.jsdelivr.net/gh/chisec/opt-public-cache@1.0.9/utils/fuck.js"></script>
     {%- include analytics.html -%}
     {%- include head.html -%}
