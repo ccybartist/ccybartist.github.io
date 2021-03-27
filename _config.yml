@@ -1,4 +1,4 @@
-## => Custom Settings
+﻿## => Custom Settings
 ##############################
 show_logo: false
 
@@ -11,7 +11,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://cybart.ist
 baseurl : # does not include hostname
-title   : CYBARTIST
+title   : CYBARTIST | Blog
 description: 「遺世獨立，御風而行。」
 
 ## => Language and Timezone
