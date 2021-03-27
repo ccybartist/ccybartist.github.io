@@ -1,12 +1,12 @@
-header:
-  - title: 首頁
+﻿header:
+  - title: Index
     url: /index.html
 
-  - title: 歸檔
+  - title: Archive
     url: /archive.html
 
-  - title: Telegram Channel
-    url: https://t.me/cybartist_official
-
-  - title: RSS Feed
+  - title: RSS
     url: /feed.xml
+
+  - title: @cybartist_official
+    url: https://t.me/cybartist_official
